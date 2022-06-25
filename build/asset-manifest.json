@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AmazonPrimeVideo/static/css/main.d27ed973.css",
+    "main.js": "/AmazonPrimeVideo/static/js/main.0dae9950.js",
+    "index.html": "/AmazonPrimeVideo/index.html",
+    "main.d27ed973.css.map": "/AmazonPrimeVideo/static/css/main.d27ed973.css.map",
+    "main.0dae9950.js.map": "/AmazonPrimeVideo/static/js/main.0dae9950.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d27ed973.css",
+    "static/js/main.0dae9950.js"
+  ]
+}
